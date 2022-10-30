@@ -1,0 +1,17 @@
+2022-10-30 19:07:32,364 INFO User started program
+2022-10-30 19:07:34,479 INFO Users input 5
+2022-10-30 19:07:35,030 INFO Users input 2
+2022-10-30 19:07:36,021 INFO Users input 3
+2022-10-30 19:07:36,786 INFO Users input 4
+2022-10-30 19:07:38,897 INFO User selects a figure
+2022-10-30 19:07:38,912 INFO User made a wrong move
+2022-10-30 19:07:38,913 INFO Programm ended
+2022-10-30 19:07:46,762 INFO User started program
+2022-10-30 19:07:49,642 INFO Users input 5
+2022-10-30 19:07:50,303 INFO Users input 2
+2022-10-30 19:07:53,454 INFO Users input 1
+2022-10-30 19:07:53,940 INFO Users input 5
+2022-10-30 19:07:56,123 INFO User selects a figure
+2022-10-30 19:07:56,128 INFO Program printed the color
+2022-10-30 19:07:56,135 INFO User made a wrong move
+2022-10-30 19:07:56,137 INFO Programm ended
